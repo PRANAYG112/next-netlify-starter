@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img id=""  src="" alt="">
+        <img id=""  src="./public/Screenshot__140_-removebg-preview.png" alt="">
 
       </main>
 
